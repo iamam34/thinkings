@@ -5,6 +5,8 @@
 - [ ] S add the site description to the local _config.yml
 - [ ] S remove link to repository from local template footer
 - [ ] L add navigation sidebar
+- [ ] S add favicon
+- [ ] S configure local git credentials
 
 ## Wordy
 - [ ] write the welcome post
