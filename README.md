@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# `thinkings`
 
-You can use the [editor on GitHub](https://github.com/iamam34/thinkings/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A blog in denial of its identity. I almost named it `muse`. Created 17 July 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For every commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in the site, from the content in the Markdown files.
 
-### Markdown
+## Local preview with Jekyll
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Initial setup
+Based on [https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/]. Worked for me on 2017-07-17 with Ubuntu 16.04 64-bit :squirrel:, except I needed `sudo` for installing anything with `gem`.
+1. Confirm you have ruby: `ruby --version`. If you don't, install Ruby: `sudo apt-get install ruby-full`. It prompted me to install `ffi` separately, so I did. 
+2. Install bundler: `gem install bundler`.
+3. Clone this git repository to your machine.
+3. In the clone destination (e.g. `~/Programming/thinkings`), save these lines to a file called "Gemfile":
+    ```
+    source 'https://rubygems.org'
+    gem 'github-pages', group: :jekyll_plugins
+    ```
+4. Install dependencies: `bundler install`.
 
-```markdown
-Syntax highlighted code block
+### Local server
+1. Update dependencies: `bundler update`.
+2. Run server (with option to render `_drafts`): `bundle exec jekyll serve --drafts`
+3. Navigate to [http://localhost:4000] to preview the site.
+Changes to files _should_ trigger automatic regeneration of pages. Sometimes I have to terminate and restart the server to force regeneration.
 
-# Header 1
-## Header 2
-### Header 3
+### Writing a draft
+1. Add a new file in the `_drafts` directory. It doesn't need the date in its filename.
+2. When you run the server with `--drafts`, the draft will be treated like a normal page.
+3. Publish the draft by moving the file to the appropriate directory (e.g. `_posts`) and renaming it to include the date if needed.
+See [Jekyll: Working with drafts](https://jekyllrb.com/docs/drafts/) for more information.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iamam34/thinkings/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Resources
+- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+- [GitHub Pages documentation](https://help.github.com/categories/github-pages-basics/)
+- [Jekyll documentation](https://jekyllrb.com/docs/home/)
+- [Emoji cheatsheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
