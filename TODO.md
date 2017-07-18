@@ -8,4 +8,5 @@
 
 ## Wordy
 - [ ] write the welcome post
+- [ ] remove exclamation marks, especially from headings :bangbang:
 
