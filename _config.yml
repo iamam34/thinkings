@@ -1,4 +1,4 @@
-exclude: [README]
+exclude: [README, TODO]
 permalink: /:year/:month/:title
 theme: jekyll-theme-cayman
 gems:
