@@ -4,6 +4,11 @@ A blog originally in denial of its identity. I almost named it `muse`. Created 1
 
 For every commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in the site, from the content in the Markdown files.
 
+## Gotchas
+- use `{{site.github.url}}` before any internal url to get the correct prefix
+- "Page build failed" (found in Repository Settings --> GitHub Pages)
+  - when using `{% post_url ... %}`, check that the post you want to link to definitely exists (but `{% link ... %}` is fine)
+
 ## Local preview with Jekyll
 
 ### Initial setup
