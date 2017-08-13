@@ -1,6 +1,6 @@
 # `thinkings`
 
-A blog in denial of its identity. I almost named it `muse`. Created 17 July 2017.
+A blog originally in denial of its identity. I almost named it `muse`. Created 17 July 2017.
 
 For every commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in the site, from the content in the Markdown files.
 
