@@ -7,7 +7,7 @@ For every commit to this repository, GitHub Pages will run Jekyll to rebuild the
 ## Local preview with Jekyll
 
 ### Initial setup
-Based on [https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/]. Worked for me on 2017-07-17 with Ubuntu 16.04 64-bit :squirrel:, except I needed `sudo` for installing anything with `gem`.
+These instructions are based on https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/. Worked for me on 2017-07-17 with Ubuntu 16.04 64-bit, except I needed `sudo` for installing anything with `gem`.
 1. Confirm you have ruby: `ruby --version`. If you don't, install Ruby: `sudo apt-get install ruby-full`. It prompted me to install `ffi` separately, so I did. 
 2. Install bundler: `gem install bundler`.
 3. Clone this git repository to your machine.
@@ -21,7 +21,7 @@ Based on [https://help.github.com/articles/setting-up-your-github-pages-site-loc
 ### Local server
 1. Update dependencies: `bundler update`.
 2. Run server (with option to render `_drafts`): `bundle exec jekyll serve --drafts`
-3. Navigate to [http://localhost:4000] to preview the site.
+3. Navigate to http://localhost:4000 to preview the site.
 Changes to files _should_ trigger automatic regeneration of pages. Sometimes I have to terminate and restart the server to force regeneration.
 
 ### Writing a draft
