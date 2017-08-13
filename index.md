@@ -21,7 +21,7 @@ This corner of the internet holds some of my written thoughts. Topics may includ
 <ul class="all-posts">
   {% for post in site.posts %}
     <li>
-      {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.date | date: "%Y-%m-%d" }} <a href="{{site.github.url}}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
