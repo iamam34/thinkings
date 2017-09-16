@@ -1,5 +1,6 @@
 exclude: [README, TODO]
 permalink: /:year/:month/:title
+google_analytics: UA-106539450-1
 theme: jekyll-theme-cayman
 gems:
   - jekyll-sitemap
