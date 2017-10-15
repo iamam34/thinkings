@@ -2,6 +2,7 @@
 title: The green-eyed monster
 emoji: ":dragon_face:"
 tags: jealousy monster
+published: false
 ---
 
 {% include post_title.html %}
