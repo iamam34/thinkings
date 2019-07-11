@@ -13,7 +13,8 @@ I started with words like "despair" and "hopelessness", but the word "underneath
 
 Imagine a deep inky-black pool with an iridescent film over the surface. When I lose hope, the surface dissolves and the substance is revealed for what it is: deep darkness. I must exert effort to hold on to that cloak of light. If my strength fails and I lose the light, everyone will be able to see my darkness for what it is, and to see me for what I am. At the end of my strength I am hopeless and ashamed. Even when do I truly believe and the light is thick, I am still afraid of being found out: if darkness is always lurking underneath, how could I be a "child of the light"? I don't belong in Christ's family because I naturally revert to darkness. That is a lie.
 
-![[Oil Rainbow](https://www.flickr.com/photos/10688882@N00/26548710783) by [byzantiumbooks](https://www.flickr.com/photos/10688882@N00) is licensed under [CC BY 2.0](creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=html)]({{ "/assets/20190605_lightanddarkness_oil.jpg" | absolute_url }}){: style="display: block; margin: 0 auto;" }
+![Oil Rainbow by byzantiumbooks]({{ "/assets/20190605_lightanddarkness_oil.jpg" | absolute_url }}){: style="display: block; margin: 0 auto;" }
+_[Oil Rainbow](https://www.flickr.com/photos/10688882@N00/26548710783) by [byzantiumbooks](https://www.flickr.com/photos/10688882@N00) is licensed under [CC BY 2.0](creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=html)_
 
 
 The question of "what are we made of?" is tightly coupled to the doctrine of Total Depravity. This doctrine can be paraphrased as "every human is born into total darkness, and incapable of reaching light without external input". It implies that we can't do good unless we are divinely inspired, and we can't know God unless he first calls us. It would be easy to invoke this doctrine in support of the we-are-made-of-darkness illustration above, but hang on and see where this is going.
