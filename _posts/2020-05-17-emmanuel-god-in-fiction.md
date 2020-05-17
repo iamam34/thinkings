@@ -24,9 +24,9 @@ The protagonist Aidan has lived all his life in a remote monastery observing dai
 > 
 > ~ Gunnar in _Byzantium_ by Stephen Lawhead
 
-I couldn't help but compare the ways God is portrayed in _Byzantium_ and _Kainnan_. 
+These authors are novelists, not theologians.
 
-These authors are novelists, not theologians. C.S. Lewis, who is both, presents a remarkably similar image of Jesus in his 1945 novel _That Hideous Strength_ (third in the space trilogy). Mr. Fisher-King is a man, all dignity and all kindness, radiating light, experiencing pain, and he speaks as a person to a person. Lewis' protagonist, Jane, observes his voice:
+C.S. Lewis, who is both, presents a remarkably similar image of Jesus in his 1945 novel _That Hideous Strength_ (third in the space trilogy). Mr. Fisher-King is a man, all dignity and all kindness, radiating light, experiencing pain, and he speaks as a person to a person. Lewis' protagonist, Jane, observes his voice:
 
 > And the voice also seemed to be like sunlight and gold, like gold not only as gold is beautiful but as it is heavy: like sunlight not only as it falls gently on English walls in autumn but as it beats down on the jungle or the desert to engender life or destroy it. And now it was addressing her. 
 > 
