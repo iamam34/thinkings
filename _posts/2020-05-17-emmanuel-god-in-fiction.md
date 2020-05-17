@@ -1,7 +1,7 @@
 ---
-title: "Emmanuel: Prayer and Presence"
+title: "Emmanuel: God in fiction"
 emoji: ":innocent:"
-tags: God light prayer pain presence
+tags: God light prayer pain presence novel CSLewis Kainnan
 ---
 
 {% include post_title.html %}
