@@ -1,6 +1,6 @@
 ---
 title: Life and Books
-emoji: ":open-book:"
+emoji: ":book:"
 tags: books reading reviews florist bees audiobook ebook spiritual CSLewis gender neurodiversity sci-fi fiction
 word_count: 1363
 ---
