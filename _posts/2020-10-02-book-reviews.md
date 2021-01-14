@@ -4,6 +4,8 @@ emoji: ":books:"
 tags: books reading reviews Kainnan Psalms fiction garden biography shorthand
 ---
 
+{% include post_title.html %}
+
 I've read a few books over the last few months, and I'd like to take some time to share my impressions with you, dear audience.
 
 # The Kainnan Chronicles (Belinda Stott)

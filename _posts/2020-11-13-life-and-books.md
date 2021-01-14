@@ -5,7 +5,8 @@ tags: books reading reviews florist bees audiobook ebook spiritual CSLewis gende
 word_count: 1363
 ---
 
-# Life and Books
+{% include post_title.html %}
+
 It's been more than a month since I last wrote in this format. To be honest I find it almost impossible to recall the details of each day, since each is so different to the next. I spent a week up north visiting friends and family in Hamilton, Auckland and Palmerston North. I repotted some vegetables and fought back the springtime weeds in our garden. I explored the Botanic Garden and acquired a bicycle on long-term loan from a friend. I spent a day with a puppy and watched the surfers in the bay. I slept a lot. And I also read a few books.
 
 
