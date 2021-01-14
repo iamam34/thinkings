@@ -16,11 +16,6 @@ These instructions are based on https://help.github.com/articles/setting-up-your
 1. Confirm you have ruby: `ruby --version`. If you don't, install Ruby: `sudo apt-get install ruby-full`. It prompted me to install `ffi` separately, so I did. 
 2. Install bundler: `gem install bundler`.
 3. Clone this git repository to your machine.
-3. In the clone destination (e.g. `~/Programming/thinkings`), save these lines to a file called "Gemfile":
-    ```
-    source 'https://rubygems.org'
-    gem 'github-pages', group: :jekyll_plugins
-    ```
 4. Install dependencies: `bundler install`.
 
 ### Local server
